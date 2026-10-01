@@ -1,0 +1,50 @@
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/InMobiAdapterUtils.java
+  s_217989bfdd0afc::t_83d6f34ba85591 169-178
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/waterfall/InMobiWaterfallInterstitialAd.java
+  s_217989bfdd0afc::t_be97b8dd4af7fe 80
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/InMobiSdkWrapper.java
+  s_217989bfdd0afc::t_fe340f0ddac8db 32-35
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/InMobiAdapterUtilsTest.kt
+  s_217989bfdd0afc::t_bcffc000f2b6ea 162-180
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/rtb/InMobiRtbInterstitialAdTest.kt
+  s_217989bfdd0afc::t_51cd12bb1c6f99 16,23,27
+  s_217989bfdd0afc::t_d03b2a254d25c6 99-114
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/rtb/InMobiRtbRewardedAdTest.kt
+  s_217989bfdd0afc::t_ed83b581c25b57 16,23,27
+  s_217989bfdd0afc::t_6aadc58912b51d 98-113
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/InMobiNetworkKeys.java
+  s_217989bfdd0afc::t_73c40e041cc866 40
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/waterfall/InMobiWaterfallInterstitialAdTest.kt
+  s_217989bfdd0afc::t_f225308e3ea88e 17,24,28
+  s_217989bfdd0afc::t_68ec7b016fd0bf 113-132
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/rtb/InMobiRtbInterstitialAd.java
+  s_217989bfdd0afc::t_7763dfcdf3e880 49
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/InMobiExtrasBuilder.java
+  s_217989bfdd0afc::t_92dcffdc1fd054 66
+  s_217989bfdd0afc::t_f80faa18b2159c 30-31,33,37-38
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/InMobiExtrasBuilderTest.kt
+  s_217989bfdd0afc::t_9b20143e59058e 155-184
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/waterfall/InMobiWaterfallRewardedAd.java
+  s_217989bfdd0afc::t_5898de010e2c4a 80
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/waterfall/InMobiWaterfallRewardedAdTest.kt
+  s_217989bfdd0afc::t_fffdf9b31feada 17,24,28
+  s_217989bfdd0afc::t_a15de6be8895a5 110-129
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/rtb/InMobiRtbRewardedAd.java
+  s_217989bfdd0afc::t_dd7fe55a8003d2 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "fa8023b6356a62817f821ac3de1ee35bf227ab3e",
+  "prompts": {},
+  "sessions": {
+    "s_217989bfdd0afc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "060c450e-9a71-49c6-8466-c2c553084bfb",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Abdul Basit <abdul.basit@inmobi.com>"
+    }
+  }
+}
