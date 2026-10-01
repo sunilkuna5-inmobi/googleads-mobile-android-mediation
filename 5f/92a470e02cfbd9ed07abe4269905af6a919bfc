@@ -1,0 +1,21 @@
+ThirdPartyAdapters/inmobi/CHANGELOG.md
+  s_9cbf8bd38878b5::t_66e791653d53da 3-4,11
+ThirdPartyAdapters/inmobi/inmobi/build.gradle
+  s_9cbf8bd38878b5::t_66e791653d53da 13,136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "5f92a470e02cfbd9ed07abe4269905af6a919bfc",
+  "prompts": {},
+  "sessions": {
+    "s_9cbf8bd38878b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "27012be8-dc2b-4116-a0f7-1d04687bf4ea",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sunil Kumar Reddy Kuna <sunil.reddy@inmobi.com>"
+    }
+  }
+}
