@@ -1,0 +1,19 @@
+ThirdPartyAdapters/inmobi/inmobi/build.gradle
+  s_4cb5e2e463b32d::t_83b7fe90251a72 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "43de8d4fb7806888e83033ccb76eb9b03c35b569",
+  "prompts": {},
+  "sessions": {
+    "s_4cb5e2e463b32d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a10aaf-8a7e-7220-a899-77e4f911f8b3",
+        "model": "unknown"
+      },
+      "human_author": "Sunil Kumar Reddy Kuna <sunil.reddy@inmobi.com>"
+    }
+  }
+}
