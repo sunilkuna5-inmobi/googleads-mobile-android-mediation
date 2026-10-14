@@ -1,0 +1,23 @@
+ThirdPartyAdapters/inmobi/CHANGELOG.md
+  s_c762c711374ba6::t_611bc305af5315 6
+ThirdPartyAdapters/inmobi/inmobi/src/main/java/com/google/ads/mediation/inmobi/InMobiAdapterUtils.java
+  s_c762c711374ba6::t_8b6297e4488c84 282-292
+ThirdPartyAdapters/inmobi/inmobi/src/test/kotlin/com/google/ads/mediation/inmobi/InMobiAdapterUtilsTest.kt
+  s_c762c711374ba6::t_a28c8c22b15792 27,384-397
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "2a768520f5f07533ef06eecd1c3db91b8f8de8c5",
+  "prompts": {},
+  "sessions": {
+    "s_c762c711374ba6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a13a21-135a-7980-b8bf-dc12f0a571e2",
+        "model": "unknown"
+      },
+      "human_author": "Sunil Kumar Reddy Kuna <sunil.reddy@inmobi.com>"
+    }
+  }
+}
